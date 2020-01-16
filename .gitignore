@@ -5,4 +5,4 @@ blog/migrations/__pycache__/*
 django_project/__pycache__/*
 users/__pycache__/*
 users/migrations/__pycache__/*
-
+media/profile_pics/*
